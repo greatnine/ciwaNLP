@@ -12,9 +12,9 @@ The Main Target
 
 ## My Philosophy
 
--- Peace
--- Joy
--- Contentment
+- Peace
+- Joy
+- Contentment
 
 ```
 My goal in life can be achieved!
