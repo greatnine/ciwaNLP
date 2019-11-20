@@ -1,5 +1,5 @@
 
-多行变为单行
+# 多行变为单行
 
 
 def become_single_line(multi_line_string):
