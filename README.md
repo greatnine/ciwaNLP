@@ -15,3 +15,7 @@ The Main Target
 -- Peace
 -- Joy
 -- Contentment
+
+```
+My goal in life can be achieved!
+```
