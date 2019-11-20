@@ -1,7 +1,7 @@
 
 多行变为单行
-----
-```
+
+
 def become_single_line(multi_line_string):
     if isinstance(multi_line_string, list):
         return ["".join(m for m in multi_line_string)]
@@ -29,4 +29,4 @@ if __name__ == '__main__':
     print(u)
     print("-------------------------")
 
-```
+
