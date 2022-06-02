@@ -10,7 +10,7 @@
 12阶段
 
 ![10001](StoryLine/10001.jpg)
-
+![10000](https://github.com/greatnine/ciwaNLP/blob/readme-edits/Spring/StoryLine/1000.jpg)
 
 
 一、启程
